@@ -96,19 +96,8 @@ class HomePage extends StatelessWidget {
           ),
           ListTile(
             leading: CircleAvatar(),
-            title: Text('Email header...'),
-            subtitle: Text('Some text here...'),
-            trailing: Column(
-              children: <Widget>[
-                Text('24 Jan'),
-                Icon(Icons.star),
-              ],
-            ),
-          ),
-          ListTile(
-            leading: CircleAvatar(),
-            title: Text('CHECKING THE EDTT THINGYYYY),
-            subtitle: Text('LET ME KNOW IF THIS WORKS'),
+            title: Text('hamza'),
+            subtitle: Text('checking'),
             trailing: Column(
               children: <Widget>[
                 Text('24 Jan'),
